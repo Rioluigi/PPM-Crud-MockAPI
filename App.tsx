@@ -82,7 +82,7 @@ const App = () => {
   // Render
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Product Management</Text>
+      <Text style={styles.title}>Product Outdoor</Text>
       <TextInput
         style={styles.input}
         placeholder="Product Name"
